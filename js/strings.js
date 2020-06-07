@@ -18,7 +18,69 @@
 
 const strings = {
 
-	"English": {
+    "English": {
+		"AdvanceHelp": "To advance through the game, press the space key or click.",
+		"Audio": "오디오",
+		"AutoPlay": "자동",
+		"AutoPlaySpeed": "자동 재생 속도",
+
+		"Back": "뒤로",
+		"BackButton": "뒤로.",
+
+		"Cancel": "취소",
+		"Close": "닫기",
+		"Confirm": "종료하시겠습니까?",
+
+		"FullScreen": "전체 화면",
+
+		"Help": "도움말",
+		"Hide": "숨기기",
+		"HideButton": "대사 숨기기.",
+
+		"iOSAudioWarning": "오디오 설정은 iOS에서는 지원하지 않습니다.",
+
+		"Language": "언어e",
+		"Load": "로드",
+		"LoadAutoSaveSlots": "게임 자동 저장",
+		"LoadButton": "스크린을 로딩 중입니다.",
+		"Loading": "Loading",
+		"LoadingMessage": "에셋이 로드될 동안 기다려주세요.",
+		"LoadSlots": "게임 저장",
+		"LocalStorageWarning": "로컬 스토리지는 브라우저에서 사용할 수 없습니다.",
+
+		"Music": "음악 볼륨",
+
+		"NoSavedGames": "저장되지 않음.",
+		"NoAutoSavedGames": "자동 저장 되지 않음.",
+
+		"Overwrite": "덮어쓰기",
+
+		"QuickButtons": "퀵 메뉴 버튼",
+		"Quit": "종료",
+		"QuitButton": "게임 종료.",
+
+		"Resolution": "Resolution",
+
+		"Save": "저장",
+		"SaveButon": "저장 스크린 열기.",
+		"SaveInSlot": "슬롯에 저장",
+		"Settings": "설정",
+		"SettingsButton": "설정 스크린 열기.",
+		"Show": "Show",
+		"SlotDeletion": "정말로 슬롯을 삭제하시겠습니까?",
+		"SlotOverwrite": "정말로 슬롯을 덮어씌우기 하시겠습니까?",
+		"Sound": "소리 볼륨",
+		"Start": "시작",
+		"Stop": "정지",
+
+		"TextSpeed": "문자 속도",
+
+		"Voice": "목소리 볼륨",
+
+		"Windowed": "윈도우 모드"
+    },
+
+    "한국어": {
 		"AdvanceHelp": "To advance through the game, press the space key or click.",
 		"Audio": "Audio",
 		"AutoPlay": "Auto",
@@ -78,7 +140,7 @@ const strings = {
 		"Voice": "Voice Volume",
 
 		"Windowed": "Windowed"
-	},
+    },
 
 	"Español": {
 		"AdvanceHelp": "Para avanzar en el juego, presiona espacio o haz click.",
