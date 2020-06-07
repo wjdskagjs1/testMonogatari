@@ -70,7 +70,7 @@ const scenes = {
 // Define the Characters
 const characters = {
 	"h": {
-		"Name": "Hikaru",
+		"Name": "히카루",
 		"Color": "#5bcaff"
 	}
 };
